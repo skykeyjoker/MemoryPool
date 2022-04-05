@@ -1,0 +1,5 @@
+cmake-build-debug
+Src/cmake-build-debug
+Src/out
+.idea
+.vs
